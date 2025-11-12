@@ -1,0 +1,11 @@
+total 12
+drwxr-xr-x 1 runner runner 114 Oct  8 07:20 ./
+drwxrwxrwx 1 runner runner  46 Oct  8 07:11 ../
+drwxr-xr-x 1 runner runner 102 Oct  8 07:17 berichte/
+drwxr-xr-x 1 runner runner  12 Sep  9 09:20 .cache/
+drwxr-xr-x 1 runner runner 128 Oct  8 07:18 .git/
+drwxr-xr-x 1 runner runner  10 Sep  9 09:20 .local/
+-rw-r--r-- 1 runner runner  24 Sep  9 14:05 README.md
+-rw-r--r-- 1 runner runner 151 Sep 24 07:12 .replit
+drwxr-xr-x 1 runner runner  20 Sep 24 07:21 .upm/
+-rw-r--r-- 1 runner runner   0 Oct  8 07:20 workspace.txt
