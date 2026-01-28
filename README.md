@@ -4,3 +4,5 @@
 [Arbeitsbericht vom 10.12.2025](berichte/251210.html)
 
 [Arbeitsbericht vom 07.01.2026](berichte/260107.html)
+
+[Arbeitsbericht vom 28.01.2026](berichte/260128.html)
