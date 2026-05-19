@@ -10,3 +10,5 @@
 [Arbeitsbericht vom 11.02.2026](berichte/261102.html)
 
 [Arbeitsbericht vom 18.03.2026](berichte/260318.html)
+
+[Arbeitsbericht vom 06.05.2026](berichte/260506.html)
