@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 
-name=$(date +"%y%m%d")
-
-cat << EOF > $name.md
+cat << EOF > $(date +"%y%m%d").md
 # Arbeitsbericht
 
 - Name: Samuel Hintringer
