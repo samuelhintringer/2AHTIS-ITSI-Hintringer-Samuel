@@ -12,3 +12,5 @@
 [Arbeitsbericht vom 18.03.2026](berichte/260318.html)
 
 [Arbeitsbericht vom 06.05.2026](berichte/260506.html)
+
+[Arbeitsbericht vom 20.05.2026](berichte/260520.html)
