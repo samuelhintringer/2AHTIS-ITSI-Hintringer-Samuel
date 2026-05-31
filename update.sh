@@ -16,7 +16,7 @@ git merge upstream/main -m "sync upstream"
 git push origin main
 
 git fetch
-git add /workspace/
+git add .
 git commit -m "commit"
 git pull
 git push
