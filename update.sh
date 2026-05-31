@@ -4,8 +4,6 @@ change=0
 filepath1=$(pwd)
 filepath2="/workspace/"
 
-echo "$filepath1 $username"
-
 if [ "$filepath1" != $filepath2 ]; then
 	change=1
 	cd $filepath2
