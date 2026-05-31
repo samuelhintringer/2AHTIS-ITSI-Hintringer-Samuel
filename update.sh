@@ -1,0 +1,29 @@
+#!/bin/bash
+
+change=0
+filepath1=$(pwd)
+filepath2="/workspace/"
+
+echo "$filepath1 $username"
+
+if [ "$filepath1" != $filepath2 ]; then
+	change=1
+	cd $filepath2
+fi
+
+git fetch upstream
+git merge upstream/main -m "sync upstream"
+git push origin main
+
+git fetch
+git add /workspace/
+git commit -m "commit"
+git pull
+git push
+git merge -m "merge"
+
+if [ "$change" -eq 1 ]; then
+	cd $filepath1
+fi
+
+
