@@ -2,7 +2,7 @@
 
 change=0
 filepath1=$(pwd)
-filepath2="/workspace/"
+filepath2="~/workspace/"
 
 if [ "$filepath1" != $filepath2 ]; then
 	change=1
