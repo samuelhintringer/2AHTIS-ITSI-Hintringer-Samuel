@@ -1,5 +1,5 @@
 #!/bin/bash
 
-git stage .
+git stage ..
 
 git commit -m "update"
