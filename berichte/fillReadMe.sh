@@ -1,6 +1,6 @@
 #!/bin/bash
 {
-    echo -e "# Arbeitsberichte"\n
+    echo -e "# Arbeitsberichte" "\n"
     for file in 2*.md; do
         basename=$(basename "$file" .md)
 
@@ -13,7 +13,7 @@
 } > ReadMeLinks.tx
 
 {
-    echo -e "# Arbeitsberichte"\n
+    echo -e "# Arbeitsberichte" "\n"
     for file in 2*.md; do
         basename=$(basename "$file" .md)
 
