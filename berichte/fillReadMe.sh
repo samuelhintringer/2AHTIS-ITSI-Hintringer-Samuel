@@ -9,6 +9,7 @@
         tag="${basename:4:2}"
 
         echo "[Arbeitsbericht vom ${tag}.${monat}.${jahr}](berichte/${basename}.html)"
+        echo -e "\n"
     done
 } > ReadMeLinks.tx
 
@@ -22,5 +23,6 @@
         tag="${basename:4:2}"
 
         echo "[Arbeitsbericht vom ${tag}.${monat}.${jahr}](berichte/${basename}.html)"
+        echo -e "\n"
     done
 } > ../README.md
