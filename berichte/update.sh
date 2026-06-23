@@ -2,6 +2,6 @@
 
 git add ~/workspace
 
-git stage ..
+git stage ~/workspace
 
 git commit -m "update"
