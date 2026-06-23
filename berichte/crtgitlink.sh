@@ -9,3 +9,7 @@ do
 	echo -e $link${b/md/html}"\n"
 done
 } > gitlinks.md
+
+sleep 5
+
+./update.sh
