@@ -26,3 +26,7 @@
         echo -e "\n"
     done
 } > ../README.md
+
+sleep 5
+
+./update.sh
