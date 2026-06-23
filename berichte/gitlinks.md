@@ -30,3 +30,5 @@ https://samuelhintringer.github.io/2AHTIS-ITSI-Hintringer-Samuel/berichte/260506
 
 https://samuelhintringer.github.io/2AHTIS-ITSI-Hintringer-Samuel/berichte/260520.html
 
+https://samuelhintringer.github.io/2AHTIS-ITSI-Hintringer-Samuel/berichte/260617.html
+
